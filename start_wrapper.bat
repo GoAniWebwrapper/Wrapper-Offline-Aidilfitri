@@ -1,7 +1,7 @@
 :: Wrapper: Offline Launcher
 :: Author: benson#0411
 :: License: MIT
-title Wrapper: Offline (Revision) [Initializing...]
+title Wrapper: Offline Aidilfitri [Initializing...]
 
 ::::::::::::::::::::
 :: Initialization ::
@@ -119,7 +119,7 @@ call utilities\info.bat
 
 :: Welcome, Director Ford!
 if !VERBOSEWRAPPER!==n ( cls )
-echo Wrapper: Offline (Revision)
+echo Wrapper: Offline Aidilfitri
 echo A project from VisualPlugin adapted by Benson
 echo 
 echo Project continued by the Wrapper: Offline Team
@@ -701,7 +701,7 @@ echo:
 :: Starting Wrapper ::
 ::::::::::::::::::::::
 
-title Wrapper: Offline v!WRAPPER_VER! [Loading...]
+title Wrapper: Offline Aidilfitri v!WRAPPER_VER! [Loading...]
 
 :: Close existing node apps
 :: Hopefully fixes EADDRINUSE errors??
@@ -750,21 +750,21 @@ if !INCLUDEDCHROMIUM!==n (
 	popd
 )
 
-echo Wrapper: Offline has been started^^! The video list should now be open.
+echo Wrapper: Offline Aidilfitri has been started^^! The video list should now be open.
 
 ::::::::::::::::
 :: Post-Start ::
 ::::::::::::::::
 
-title Wrapper: Offline v!WRAPPER_VER!
+title Wrapper: Offline Aidilfitri v!WRAPPER_VER!
 if !VERBOSEWRAPPER!==y ( goto wrapperstarted )
 :wrapperstartedcls
 cls
 :wrapperstarted
 
 echo:
-echo Wrapper: Offline v!WRAPPER_VER! running
-echo A project from VisualPlugin adapted by Benson and the Wrapper: Offline Team
+echo Wrapper: Offline Aidilfitri v!WRAPPER_VER! running
+echo A project from VisualPlugin adapted by Benson and the MaxDawnAnimations
 echo:
 if !VERBOSEWRAPPER!==n ( echo DON'T CLOSE THIS WINDOW^^! Use the quit option ^(0^) when you're done. )
 if !VERBOSEWRAPPER!==y ( echo Verbose mode is on, see the two extra CMD windows for extra output. )
@@ -778,7 +778,7 @@ echo Enter 2 to import a file
 echo Enter 3 to open the server page
 echo Enter ? to open the FAQ
 echo Enter clr to clean up the screen
-echo Enter 0 to close Wrapper: Offline
+echo Enter 0 to close Wrapper: Offline Aidilfitri
 set /a _rand=(!RANDOM!*67/32768)+1
 if !_rand!==25 echo Enter things you think'll show a secret if you're feeling adventurous
 :wrapperidle
