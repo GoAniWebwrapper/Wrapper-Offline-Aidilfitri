@@ -19,7 +19,7 @@ This program relies on Flash, Node.js and http-server to work properly. SilentCM
 Most of this project is free/libre software[1] under the MIT license. You have the freedom to run, change, and share this as much as you want.
 This includes:
   - Files in the "wrapper" folder
-  - Batch files made for Wrapper: Offline edited for Wrapper: Offline (Revision)
+  - Batch files made for Wrapper: Offline edited for Wrapper: Offline Aidilfitri
   - Node.js
   - http-server
   - SilentCMD
@@ -74,3 +74,6 @@ These are unaffiliated people that they haven't directly done anything for the p
 
 ## Footnotes
 [1] - See <https://www.gnu.org/philosophy/free-sw.html> for a better definition of free software.
+
+## Hari Raya Update
+First Raya Release from Wrapper Offline 1.3.0 Aidilfitri Update
