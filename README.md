@@ -1,5 +1,5 @@
-# Wrapper: Offline (Revision) - A Wrapper: Offline alternative
-After the dreaded, unstable 1.3.0 release of Wrapper: Offline, Wrapper: Offline (Revision) was created. (simply called "Revision" for the rest of this page) Unlike the original Wrapper: Offline, Revision focuses on simplicity and *stability* while also providing users a pleasant experience. Revision will continue to get updates in the future.
+# Wrapper: Offline 1.3.0 Aidliftri Raya Release 1
+Raya Update After the dreaded, unstable 1.3.0 release of Wrapper: Offline, Wrapper: Offline (Revision) was created. (simply called "Revision" for the rest of this page) Unlike the original Wrapper: Offline, Revision focuses on simplicity and *stability* while also providing users a pleasant experience. Revision will continue to get updates in the future.
 
 ## What is Wrapper: Offline?
 After learning that GoAnimate Wrapper (a project by VisualPlugin) would be shut down, Wrapper: Offline was created. (simply called "Offline" for the rest of this page) Unlike the original project, Offline can not be shut down or "patched". You have the files all on your computer. This project is important for historical and archival purposes, as the ability to use this legacy editor and themes would be completely gone without it. Besides simply emulating the original Flash editor, some additional features and improvements have been made. And Offline will also continue to get additional updates in the future.
