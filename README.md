@@ -50,9 +50,9 @@ Wrapper: Offline (Revision) credits:
 Project Lead will have (PL) on their name and developers will have (D) on their name, to show they are officially working on Revision. Everyone else has simply contributed something at some point.
 | Name             | Contribution                                           |
 | ---------------- | -------------------------------------------------------|
-| narutofan420 (PL)| Wrapper: Offline (Revision)                            |
+| WGGA Animaytions | Wrapper: Offline Aidilfitri                        |
 | Benson           | Wrapper: Offline                                       |
-| NathanTDA        | Logo                                                   |
+| MaxDawnAnimations| Logo                                                   |
 | Blukas/GoTube    | Import idea, Mega Comedy World 2                       |
 | VisualPlugin     | Text to speech voices                                  |
 | xomdjl_          | VFProxy, Text to speech voices                         |
