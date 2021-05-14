@@ -1,4 +1,4 @@
-# Wrapper: Offline 1.3.0 Aidliftri Raya Release 1
+# Wrapper: Offline 1.3.0 Aidliftri Raya Release 2
 Raya Update After the dreaded, unstable 1.3.0 release of Wrapper: Offline, Wrapper: Offline (Revision) was created. (simply called "Revision" for the rest of this page) Unlike the original Wrapper: Offline, Revision focuses on simplicity and *stability* while also providing users a pleasant experience. Revision will continue to get updates in the future.
 
 ## What is Wrapper: Offline?
