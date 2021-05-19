@@ -141,7 +141,7 @@ if !VERBOSEWRAPPER!==n (
 	echo:
 )
 
-title Wrapper: Offline v!WRAPPER_VER! [Checking dependencies...]
+title Wrapper: Offline Raya Release 3 [Checking dependencies...]
 
 :: Preload variables
 set NEEDTHEDEPENDERS=n
@@ -314,7 +314,7 @@ if !NEEDTHEDEPENDERS!==y (
 	goto skip_dependency_install
 )
 
-title Wrapper: Offline v!WRAPPER_VER! [Installing dependencies...]
+title Wrapper: Offline Raya Release 3 [Installing dependencies...]
 
 :: Preload variables
 set INSTALL_FLAGS=ALLUSERS=1 /norestart
