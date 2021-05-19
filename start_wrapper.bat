@@ -698,10 +698,10 @@ echo:
 :skip_dependency_install
 
 ::::::::::::::::::::::
-:: Starting Wrapper ::
+:: Starting Wrapper Raya ::
 ::::::::::::::::::::::
 
-title Wrapper: Offline Aidilfitri v!WRAPPER_VER! [Loading...]
+title Wrapper: Offline Aidilfitri Raya Release 3 [Loading...]
 
 :: Close existing node apps
 :: Hopefully fixes EADDRINUSE errors??
@@ -756,14 +756,14 @@ echo Wrapper: Offline Aidilfitri has been started^^! The video list should now b
 :: Post-Start ::
 ::::::::::::::::
 
-title Wrapper: Offline Aidilfitri v!WRAPPER_VER!
+title Wrapper: Offline Aidilfitri Raya Release 3
 if !VERBOSEWRAPPER!==y ( goto wrapperstarted )
 :wrapperstartedcls
 cls
 :wrapperstarted
 
 echo:
-echo Wrapper: Offline Aidilfitri v!WRAPPER_VER! running
+echo Wrapper: Offline Aidilfitri Raya Release 3 running
 echo A project from VisualPlugin adapted by Benson and the MaxDawnAnimations
 echo:
 if !VERBOSEWRAPPER!==n ( echo DON'T CLOSE THIS WINDOW^^! Use the quit option ^(0^) when you're done. )
